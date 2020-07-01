@@ -1,0 +1,1 @@
+This R script is designed to run MR and various sensitivity analyses automatically between many stated variables in MR Base. It requires betterNames and betterSNPs files, which contain a list of custom names for variables, and custom SNPs to include/exclude per variable respectively.

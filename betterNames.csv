@@ -1,0 +1,55 @@
+﻿New Id,Trait,Custom name,In study?
+ieu-a-22,Schizophrenia,0,0
+ieu-a-1187,Major Depressive Disorder,Depression,Network
+ieu-a-1000,Depressive symptoms,0,0
+ukb-b-17243,"Non-cancer illness code, self-reported: anxiety/panic attacks",0,0
+manualData_anxiety,Anxiety,Anxiety,snp reference
+ukb-b-6519,Worrier / anxious feelings,Worry,Network
+ukb-b-5779,Alcohol intake frequency.,Alcohol,Network
+ieu-a-961,Cigarettes smoked per day,Smoking,Network
+ukb-b-1585,Diagnoses - secondary ICD10: Z86.4 Personal history of psychoactive substance abuse,0,0
+ukb-b-4779,Plays computer games,0,0
+ukb-a-6,Time spent using computer,0,0
+ukb-b-17999,Weekly usage of mobile phone in last 3 months,0,0
+ieu-a-1239,Years of schooling,Education,Network
+ukb-b-19953,Body mass index (BMI),BMI,Network
+ukb-b-4077,Leisure/social activities: Other group activity,0,0
+ieu-a-1189,Obsessive Compulsive Disorder,0,0
+ukb-b-5238,Fluid intelligence score,Intelligence,Network
+ukb-b-9667,"Illness, injury, bereavement, stress in last 2 years: Financial difficulties",0,0
+ukb-b-10162,Job involve night shift work,Night shifts,0
+ieu-a-1018,Subjective well being,Wellbeing,Main
+ukb-b-4424,Sleep duration,Sleep duration,Replication
+ukb-b-8476,"Loneliness, isolation",Loneliness,Network
+,Expansion: Add SES (multiple deprivation index ukb),0,0
+ukb-b-3957,Sleeplessness / insomnia,Sleeplessness,Main
+ukb-b-4956,Morning/evening person (chronotype),Eveningness,Replication
+ukb-d-SLEEP,Diagnoses - main ICD10: G47 Sleep disorders,ICD10 Insomni,Replication
+ukb-b-16781,Diagnoses - main ICD10: G47.3 Sleep apnoea,0,0
+ukb-b-4062,Happiness,Happiness,Replication
+ukb-b-13702,Time spent doing vigorous physical activity,0,0
+ukb-b-2115,Time spent doing moderate physical activity,0,0
+ukb-b-8865,Time spent doing light physical activity,0,0
+ukb-b-151,Number of days/week of vigorous physical activity 10+ minutes,0,0
+ukb-b-4710,Number of days/week of moderate physical activity 10+ minutes,Exercise,Network
+ukb-b-4886,Number of days/week walked 10+ minutes,0,0
+ukb-b-5076,Leisure/social activities: None of the above,Not socialising,Network
+ukb-b-4000,Leisure/social activities: Sports club or gym,0,0
+ukb-b-4171,Leisure/social activities: Pub or social club,0,0
+ukb-b-4077,Leisure/social activities: Other group activity,0,0
+ukb-b-4667,Leisure/social activities: Religious group,0,0
+ukb-b-1553,Leisure/social activities: Adult education class,0,0
+ieu-a-113,Neo-agreeableness,0,0
+ieu-a-114,Neo-conscientiousness,Conscientiousness,0
+ieu-a-115,Neo-extraversion,0,0
+ieu-a-116,Neo-neuroticism,0,0
+ieu-a-117,Neo-openness to experience,Openness,0
+not in mr base,Wellbeing (M-GWAS),0,0
+not in mr base,Extraversion (gpc 2),0,0
+ukb-b-4630,Neuroticism score,0,0
+not in mr base,Objective sleep duration,Sleep duration (objective),0
+ieu-a-1007,Neuroticism,0,0
+ieu-a-118,Neuroticism,Neuroticism,Network
+ukb-b-5237,Coffee intake,Coffee intake,Network
+ieu-a-24,Type 2 diabetes,Diabetes,Network
+ieu-a-7,Coronary heart disease,CHD,Network
